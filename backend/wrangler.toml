@@ -1,0 +1,7 @@
+name = "blog"
+main = "src/index.ts"
+compatibility_date = "2025-08-20"
+
+[vars]
+DATABASE_URL="prisma+postgres://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfaWQiOjEsInNlY3VyZV9rZXkiOiJza184VXNGSlp5dHU4Zy1kSFItdmlKc0oiLCJhcGlfa2V5IjoiMDFLMzNQRjUxUUdCWktKNTIyMEpQTlNaUVIiLCJ0ZW5hbnRfaWQiOiIxYTI0NTQyZTUxNGQ4ZWY0ZjZkMzU0MWUxZWI1NjMwOGUyYWQxNzUxMWNmMTI2YjI2MzE0MWVhNGZhOGZhNzU2IiwiaW50ZXJuYWxfc2VjcmV0IjoiNmZlZDhiMjktYzU5ZC00OGM3LWI5ZmUtMDM3MTAzM2MwMzY3In0.DKYG7H5x5hIsFVul2JI1qrmmeuIuYTxjHJ23mXhUXPU"
+JWT_SECRET=harsh11
